@@ -78,8 +78,7 @@ database:
 
 ### Screenshot: Creating the YAML File
 
-
-    screenshots/editor-view.png
+    ![editor view](screenshot/editor-view.png)
 
 ***
 
@@ -97,9 +96,7 @@ Paste your YAML content and ensure there are **no syntax errors**.
 ###  Screenshot: YAML Validation
 
 
-**`/screenshots/yaml_validation.png`**
-
-    screenshots/yaml-validation.png
+    ![Yaml Validation](screenshots/yaml_validation.png)
 
 ***
 
@@ -138,10 +135,7 @@ Example JSON output:
 ###  Screenshot: JSON Output
 
 
-
-**`/screenshots/yaml_to_json.png`**
-
-    screenshots/json-output.png
+    ![yaml to json](screenshots/yaml_to_json.png)
 
 ***
 
@@ -163,4 +157,6 @@ By completing this lab, you should have:
 *   Screenshots documenting your workflow and validation steps
 
 ***
+
+
 
