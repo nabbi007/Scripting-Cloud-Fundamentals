@@ -78,7 +78,7 @@ database:
 
 ### Screenshot: Creating the YAML File
 
-    ![editor view](screenshot/editor-view.png)
+   ![editor view](screenshots/editor-view.png)
 
 ***
 
@@ -96,8 +96,7 @@ Paste your YAML content and ensure there are **no syntax errors**.
 ###  Screenshot: YAML Validation
 
 
-    ![Yaml Validation](screenshots/yaml_validation.png)
-
+ ![yaml validation](screenshots/yaml_validation.png)
 ***
 
 ### **4. Convert YAML to JSON**
@@ -134,8 +133,9 @@ Example JSON output:
 
 ###  Screenshot: JSON Output
 
+ ![yaml to json](screenshots/yaml_to_json.png)
 
-    ![yaml to json](screenshots/yaml_to_json.png)
+   
 
 ***
 
